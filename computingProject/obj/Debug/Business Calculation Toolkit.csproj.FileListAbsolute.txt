@@ -1,0 +1,393 @@
+C:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\bin\Debug\computingProject.exe.config
+C:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\bin\Debug\computingProject.exe
+C:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\bin\Debug\computingProject.pdb
+C:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\MainWindow.g.cs
+C:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\startupCostCalc.g.cs
+C:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\App.g.cs
+C:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject_MarkupCompile.cache
+C:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject_MarkupCompile.lref
+C:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\MainWindow.baml
+C:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\startupCostCalc.baml
+C:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject.g.resources
+C:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject.Properties.Resources.resources
+C:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\Business Calculation Toolkit.csproj.GenerateResource.Cache
+C:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject.exe
+C:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject.pdb
+C:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\Business Calculation Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\Oskar\documents\visual studio 2015\Projects\computingProject\computingProject\obj\Debug\conversionRateCalc.g.cs
+C:\Users\Oskar\documents\visual studio 2015\Projects\computingProject\computingProject\obj\Debug\conversionRateCalc.baml
+E:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\bin\Debug\computingProject.exe.config
+E:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject.exe
+E:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject.pdb
+E:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\bin\Debug\computingProject.exe
+E:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\bin\Debug\computingProject.pdb
+E:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\Business Calculation Toolkit.csprojResolveAssemblyReference.cache
+E:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\conversionRateCalc.g.cs
+E:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\MainWindow.g.cs
+E:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\startupCostCalc.g.cs
+E:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\App.g.cs
+E:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject_MarkupCompile.cache
+E:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject_MarkupCompile.lref
+E:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\conversionRateCalc.baml
+E:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\MainWindow.baml
+E:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\startupCostCalc.baml
+E:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject.g.resources
+E:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject.Properties.Resources.resources
+E:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\Business Calculation Toolkit.csproj.GenerateResource.Cache
+E:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\bin\Debug\HtmlAgilityPack.dll
+E:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\bin\Debug\HtmlAgilityPack.pdb
+E:\Users\Oskar\Documents\Visual Studio 2015\Projects\computingProject\computingProject\bin\Debug\HtmlAgilityPack.xml
+E:\Users\Oskar\Google Drive\computingProject\computingProject\bin\Debug\computingProject.exe.config
+E:\Users\Oskar\Google Drive\computingProject\computingProject\obj\Debug\computingProject.exe
+E:\Users\Oskar\Google Drive\computingProject\computingProject\obj\Debug\computingProject.pdb
+E:\Users\Oskar\Google Drive\computingProject\computingProject\bin\Debug\computingProject.exe
+E:\Users\Oskar\Google Drive\computingProject\computingProject\bin\Debug\computingProject.pdb
+E:\Users\Oskar\Google Drive\computingProject\computingProject\bin\Debug\HtmlAgilityPack.dll
+E:\Users\Oskar\Google Drive\computingProject\computingProject\bin\Debug\HtmlAgilityPack.pdb
+E:\Users\Oskar\Google Drive\computingProject\computingProject\bin\Debug\HtmlAgilityPack.xml
+E:\Users\Oskar\Google Drive\computingProject\computingProject\obj\Debug\Business Calculation Toolkit.csprojResolveAssemblyReference.cache
+E:\Users\Oskar\Google Drive\computingProject\computingProject\obj\Debug\conversionRateCalc.g.cs
+E:\Users\Oskar\Google Drive\computingProject\computingProject\obj\Debug\MainWindow.g.cs
+E:\Users\Oskar\Google Drive\computingProject\computingProject\obj\Debug\startupCostCalc.g.cs
+E:\Users\Oskar\Google Drive\computingProject\computingProject\obj\Debug\App.g.cs
+E:\Users\Oskar\Google Drive\computingProject\computingProject\obj\Debug\computingProject_MarkupCompile.cache
+E:\Users\Oskar\Google Drive\computingProject\computingProject\obj\Debug\computingProject_MarkupCompile.lref
+E:\Users\Oskar\Google Drive\computingProject\computingProject\obj\Debug\conversionRateCalc.baml
+E:\Users\Oskar\Google Drive\computingProject\computingProject\obj\Debug\MainWindow.baml
+E:\Users\Oskar\Google Drive\computingProject\computingProject\obj\Debug\startupCostCalc.baml
+E:\Users\Oskar\Google Drive\computingProject\computingProject\obj\Debug\computingProject.g.resources
+E:\Users\Oskar\Google Drive\computingProject\computingProject\obj\Debug\computingProject.Properties.Resources.resources
+E:\Users\Oskar\Google Drive\computingProject\computingProject\obj\Debug\Business Calculation Toolkit.csproj.GenerateResource.Cache
+E:\Users\Oskar\Google Drive\computingProject\computingProject\obj\Debug\breakevenPointCalculator.g.cs
+E:\Users\Oskar\Google Drive\computingProject\computingProject\obj\Debug\breakevenPointCalculator.baml
+H:\Documents\Visual Studio 2015\Projects\computingProject\computingProject\bin\Debug\computingProject.exe.config
+H:\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject.exe
+H:\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject.pdb
+H:\Documents\Visual Studio 2015\Projects\computingProject\computingProject\bin\Debug\computingProject.exe
+H:\Documents\Visual Studio 2015\Projects\computingProject\computingProject\bin\Debug\computingProject.pdb
+H:\Documents\Visual Studio 2015\Projects\computingProject\computingProject\bin\Debug\HtmlAgilityPack.dll
+H:\Documents\Visual Studio 2015\Projects\computingProject\computingProject\bin\Debug\HtmlAgilityPack.pdb
+H:\Documents\Visual Studio 2015\Projects\computingProject\computingProject\bin\Debug\HtmlAgilityPack.xml
+H:\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\Business Calculation Toolkit.csprojResolveAssemblyReference.cache
+H:\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\breakevenPointCalculator.g.cs
+H:\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\conversionRateCalc.g.cs
+H:\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\MainWindow.g.cs
+H:\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\startupCostCalc.g.cs
+H:\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\App.g.cs
+H:\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject_MarkupCompile.cache
+H:\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject_MarkupCompile.lref
+H:\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\breakevenPointCalculator.baml
+H:\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\conversionRateCalc.baml
+H:\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\MainWindow.baml
+H:\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\startupCostCalc.baml
+H:\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject.g.resources
+H:\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject.Properties.Resources.resources
+H:\Documents\Visual Studio 2015\Projects\computingProject\computingProject\obj\Debug\Business Calculation Toolkit.csproj.GenerateResource.Cache
+E:\Users\Oskar\Google Drive\computingProject\computingProject\bin\Debug\OxyPlot.dll
+E:\Users\Oskar\Google Drive\computingProject\computingProject\bin\Debug\OxyPlot.Wpf.dll
+E:\Users\Oskar\Google Drive\computingProject\computingProject\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Users\Oskar\Google Drive\computingProject\computingProject\bin\Debug\OxyPlot.Wpf.pdb
+E:\Users\Oskar\Google Drive\computingProject\computingProject\bin\Debug\OxyPlot.Wpf.xml
+E:\Users\Oskar\Google Drive\computingProject\computingProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Users\Oskar\Google Drive\computingProject\computingProject\obj\Debug\App.baml
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\bin\Debug\computingProject.exe.config
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\computingProject.exe
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\computingProject.pdb
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\Business Calculation Toolkit.csprojResolveAssemblyReference.cache
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\breakevenPointCalculator.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\conversionRateCalc.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\MainWindow.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\startupCostCalc.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\App.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\computingProject_MarkupCompile.cache
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\computingProject_MarkupCompile.lref
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\conversionRateCalc.baml
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\MainWindow.baml
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\startupCostCalc.baml
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\bin\Debug\computingProject.exe
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\bin\Debug\computingProject.pdb
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\bin\Debug\HtmlAgilityPack.dll
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\bin\Debug\OxyPlot.dll
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\bin\Debug\OxyPlot.Wpf.dll
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\bin\Debug\HtmlAgilityPack.pdb
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\bin\Debug\HtmlAgilityPack.xml
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\bin\Debug\OxyPlot.Wpf.pdb
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\bin\Debug\OxyPlot.Wpf.xml
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\breakevenPointCalculator.baml
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\computingProject.g.resources
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\computingProject.Properties.Resources.resources
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\Business Calculation Toolkit.csproj.GenerateResource.Cache
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\bin\Debug\computingProject.exe.config
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\obj\Debug\computingProject.exe
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\obj\Debug\computingProject.pdb
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\obj\Debug\Business Calculation Toolkit.csprojResolveAssemblyReference.cache
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\obj\Debug\breakevenPointCalculator.g.cs
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\obj\Debug\conversionRateCalc.g.cs
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\obj\Debug\MainWindow.g.cs
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\obj\Debug\startupCostCalc.g.cs
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\obj\Debug\App.g.cs
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\obj\Debug\computingProject_MarkupCompile.cache
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\obj\Debug\computingProject_MarkupCompile.lref
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\bin\Debug\computingProject.exe
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\bin\Debug\computingProject.pdb
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\bin\Debug\HtmlAgilityPack.dll
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\bin\Debug\OxyPlot.dll
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\bin\Debug\OxyPlot.Wpf.dll
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\bin\Debug\HtmlAgilityPack.pdb
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\bin\Debug\HtmlAgilityPack.xml
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\bin\Debug\OxyPlot.Wpf.pdb
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\bin\Debug\OxyPlot.Wpf.xml
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\obj\Debug\breakevenPointCalculator.baml
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\obj\Debug\conversionRateCalc.baml
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\obj\Debug\MainWindow.baml
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\obj\Debug\startupCostCalc.baml
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\obj\Debug\computingProject.g.resources
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\obj\Debug\computingProject.Properties.Resources.resources
+H:\Documents\Visual Studio 2015\Projects\projectSimplified\computingProjectSimplified\computingProject\obj\Debug\Business Calculation Toolkit.csproj.GenerateResource.Cache
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\bin\Debug\computingProject.exe.config
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\bin\Debug\computingProject.exe
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\bin\Debug\computingProject.pdb
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\bin\Debug\HtmlAgilityPack.dll
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\bin\Debug\OxyPlot.dll
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\bin\Debug\OxyPlot.Wpf.dll
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\bin\Debug\HtmlAgilityPack.pdb
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\bin\Debug\HtmlAgilityPack.xml
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\bin\Debug\OxyPlot.Wpf.pdb
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\bin\Debug\OxyPlot.Wpf.xml
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\obj\Debug\Business Calculation Toolkit.csprojResolveAssemblyReference.cache
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\obj\Debug\breakevenPointCalculator.g.cs
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\obj\Debug\conversionRateCalc.g.cs
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\obj\Debug\MainWindow.g.cs
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\obj\Debug\startupCostCalc.g.cs
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\obj\Debug\App.g.cs
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\obj\Debug\computingProject_MarkupCompile.cache
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\obj\Debug\computingProject_MarkupCompile.lref
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\obj\Debug\breakevenPointCalculator.baml
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\obj\Debug\conversionRateCalc.baml
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\obj\Debug\MainWindow.baml
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\obj\Debug\startupCostCalc.baml
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\obj\Debug\computingProject.g.resources
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\obj\Debug\computingProject.Properties.Resources.resources
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\obj\Debug\Business Calculation Toolkit.csproj.GenerateResource.Cache
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\obj\Debug\computingProject.exe
+H:\Documents\Visual Studio 2015\Projects\computingProjectSimple\drive-download-20170927T091253Z-001\computingProject\obj\Debug\computingProject.pdb
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\bin\Debug\computingProject.exe.config
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\bin\Debug\computingProject.exe
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\bin\Debug\computingProject.pdb
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\bin\Debug\OxyPlot.dll
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\Business Calculation Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\breakevenPointCalculator.g.cs
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\conversionRateCalc.g.cs
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\MainWindow.g.cs
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\startupCostCalc.g.cs
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\App.g.cs
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\computingProject_MarkupCompile.cache
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\computingProject_MarkupCompile.lref
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\breakevenPointCalculator.baml
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\conversionRateCalc.baml
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\MainWindow.baml
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\startupCostCalc.baml
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\computingProject.g.resources
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\computingProject.Properties.Resources.resources
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\Business Calculation Toolkit.csproj.GenerateResource.Cache
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\Business Calculation Toolkit.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\computingProject.exe
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\computingProject.pdb
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\App.baml
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Oskar\Google Drive\computingProjectSimplified\computingProject\obj\Debug\App.baml
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\bin\Debug\computingProject.exe.config
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\obj\Debug\computingProject.exe
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\obj\Debug\computingProject.pdb
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\obj\Debug\Business Calculation Toolkit.csprojResolveAssemblyReference.cache
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\obj\Debug\breakevenPointCalculator.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\obj\Debug\conversionRateCalc.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\obj\Debug\MainWindow.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\obj\Debug\startupCostCalc.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\obj\Debug\App.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\obj\Debug\computingProject_MarkupCompile.cache
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\obj\Debug\computingProject_MarkupCompile.lref
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\bin\Debug\computingProject.exe
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\bin\Debug\computingProject.pdb
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\bin\Debug\HtmlAgilityPack.dll
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\bin\Debug\OxyPlot.dll
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\bin\Debug\OxyPlot.Wpf.dll
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\bin\Debug\HtmlAgilityPack.pdb
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\bin\Debug\HtmlAgilityPack.xml
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\bin\Debug\OxyPlot.Wpf.pdb
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\bin\Debug\OxyPlot.Wpf.xml
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\obj\Debug\App.baml
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\obj\Debug\breakevenPointCalculator.baml
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\obj\Debug\conversionRateCalc.baml
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\obj\Debug\MainWindow.baml
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\obj\Debug\startupCostCalc.baml
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\obj\Debug\computingProject.g.resources
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\obj\Debug\computingProject.Properties.Resources.resources
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Desktop\computingProject\obj\Debug\Business Calculation Toolkit.csproj.GenerateResource.Cache
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\bin\Debug\computingProject.exe.config
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\bin\Debug\computingProject.exe
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\bin\Debug\computingProject.pdb
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\bin\Debug\OxyPlot.dll
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\Business Calculation Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\breakevenPointCalculator.g.cs
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\conversionRateCalc.g.cs
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\MainWindow.g.cs
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\startupCostCalc.g.cs
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\App.g.cs
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\computingProject_MarkupCompile.cache
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\computingProject_MarkupCompile.lref
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\App.baml
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\breakevenPointCalculator.baml
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\conversionRateCalc.baml
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\MainWindow.baml
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\startupCostCalc.baml
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\computingProject.g.resources
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\computingProject.Properties.Resources.resources
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\Business Calculation Toolkit.csproj.GenerateResource.Cache
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\Business Calculation Toolkit.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\computingProject.exe
+C:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\computingProject.pdb
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\bin\Debug\computingProject.exe.config
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\computingProject.exe
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\computingProject.pdb
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\bin\Debug\computingProject.exe
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\bin\Debug\computingProject.pdb
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\bin\Debug\HtmlAgilityPack.dll
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\bin\Debug\OxyPlot.dll
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\bin\Debug\OxyPlot.Wpf.dll
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\bin\Debug\HtmlAgilityPack.pdb
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\bin\Debug\HtmlAgilityPack.xml
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\bin\Debug\OxyPlot.Wpf.pdb
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\bin\Debug\OxyPlot.Wpf.xml
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\Business Calculation Toolkit.csprojResolveAssemblyReference.cache
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\breakevenPointCalculator.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\conversionRateCalc.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\MainWindow.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\startupCostCalc.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\App.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\computingProject_MarkupCompile.cache
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\computingProject_MarkupCompile.lref
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\App.baml
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\breakevenPointCalculator.baml
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\conversionRateCalc.baml
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\MainWindow.baml
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\startupCostCalc.baml
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\computingProject.g.resources
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\computingProject.Properties.Resources.resources
+E:\Users\Oskar\Google Drive\computingProjectSimplified - Working graph\computingProject\obj\Debug\Business Calculation Toolkit.csproj.GenerateResource.Cache
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\bin\Debug\computingProject.exe.config
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\bin\Debug\computingProject.exe
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\bin\Debug\computingProject.pdb
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\bin\Debug\OxyPlot.dll
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\Business Calculation Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\breakevenPointCalculator.g.cs
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\conversionRateCalc.g.cs
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\MainWindow.g.cs
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\startupCostCalc.g.cs
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\App.g.cs
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\computingProject_MarkupCompile.cache
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\computingProject_MarkupCompile.lref
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\App.baml
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\breakevenPointCalculator.baml
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\conversionRateCalc.baml
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\MainWindow.baml
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\startupCostCalc.baml
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\computingProject.g.resources
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\computingProject.Properties.Resources.resources
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\Business Calculation Toolkit.csproj.GenerateResource.Cache
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\Business Calculation Toolkit.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\computingProject.exe
+C:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\computingProject.pdb
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\bin\Debug\computingProject.exe.config
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\computingProject.exe
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\computingProject.pdb
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\bin\Debug\computingProject.exe
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\bin\Debug\computingProject.pdb
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\bin\Debug\HtmlAgilityPack.dll
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\bin\Debug\OxyPlot.dll
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\bin\Debug\OxyPlot.Wpf.dll
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\bin\Debug\HtmlAgilityPack.pdb
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\bin\Debug\HtmlAgilityPack.xml
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\bin\Debug\OxyPlot.Wpf.pdb
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\bin\Debug\OxyPlot.Wpf.xml
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\Business Calculation Toolkit.csprojResolveAssemblyReference.cache
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\breakevenPointCalculator.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\conversionRateCalc.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\MainWindow.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\startupCostCalc.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\App.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\computingProject_MarkupCompile.cache
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\computingProject_MarkupCompile.lref
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\App.baml
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\breakevenPointCalculator.baml
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\conversionRateCalc.baml
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\MainWindow.baml
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\startupCostCalc.baml
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\computingProject.g.resources
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\computingProject.Properties.Resources.resources
+E:\Users\Oskar\Google Drive\computingProjectSimplified - working validation\computingProject\obj\Debug\Business Calculation Toolkit.csproj.GenerateResource.Cache
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\bin\Debug\computingProject.exe.config
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\bin\Debug\computingProject.exe
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\bin\Debug\computingProject.pdb
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\bin\Debug\HtmlAgilityPack.dll
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\bin\Debug\OxyPlot.dll
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\bin\Debug\HtmlAgilityPack.xml
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\obj\Debug\Business Calculation Toolkit.csprojAssemblyReference.cache
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\obj\Debug\breakevenPointCalculator.g.cs
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\obj\Debug\conversionRateCalc.g.cs
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\obj\Debug\MainWindow.g.cs
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\obj\Debug\startupCostCalc.g.cs
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\obj\Debug\App.g.cs
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\obj\Debug\computingProject_MarkupCompile.cache
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\obj\Debug\computingProject_MarkupCompile.lref
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\obj\Debug\App.baml
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\obj\Debug\breakevenPointCalculator.baml
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\obj\Debug\conversionRateCalc.baml
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\obj\Debug\MainWindow.baml
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\obj\Debug\startupCostCalc.baml
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\obj\Debug\computingProject.g.resources
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\obj\Debug\computingProject.Properties.Resources.resources
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\obj\Debug\Business Calculation Toolkit.csproj.GenerateResource.cache
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\obj\Debug\Business Calculation Toolkit.csproj.CoreCompileInputs.cache
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\obj\Debug\Business Calculation Toolkit.csproj.CopyComplete
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\obj\Debug\computingProject.exe
+C:\Users\oskar\Desktop\MouseWithoutBorders\computingProjectSimplified - working validation\computingProject\obj\Debug\computingProject.pdb

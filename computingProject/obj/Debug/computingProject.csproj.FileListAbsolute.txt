@@ -1,0 +1,16 @@
+c:\users\oskar\documents\visual studio 2015\Projects\computingProject\computingProject\bin\Debug\computingProject.exe.config
+c:\users\oskar\documents\visual studio 2015\Projects\computingProject\computingProject\bin\Debug\computingProject.exe
+c:\users\oskar\documents\visual studio 2015\Projects\computingProject\computingProject\bin\Debug\computingProject.pdb
+c:\users\oskar\documents\visual studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject.csprojResolveAssemblyReference.cache
+c:\users\oskar\documents\visual studio 2015\Projects\computingProject\computingProject\obj\Debug\MainWindow.g.cs
+c:\users\oskar\documents\visual studio 2015\Projects\computingProject\computingProject\obj\Debug\startupCostCalc.g.cs
+c:\users\oskar\documents\visual studio 2015\Projects\computingProject\computingProject\obj\Debug\App.g.cs
+c:\users\oskar\documents\visual studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject_MarkupCompile.cache
+c:\users\oskar\documents\visual studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject_MarkupCompile.lref
+c:\users\oskar\documents\visual studio 2015\Projects\computingProject\computingProject\obj\Debug\MainWindow.baml
+c:\users\oskar\documents\visual studio 2015\Projects\computingProject\computingProject\obj\Debug\startupCostCalc.baml
+c:\users\oskar\documents\visual studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject.g.resources
+c:\users\oskar\documents\visual studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject.Properties.Resources.resources
+c:\users\oskar\documents\visual studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject.csproj.GenerateResource.Cache
+c:\users\oskar\documents\visual studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject.exe
+c:\users\oskar\documents\visual studio 2015\Projects\computingProject\computingProject\obj\Debug\computingProject.pdb
